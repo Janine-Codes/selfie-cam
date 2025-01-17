@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "npm run lint && vite build",
     "preview": "vite preview",
-    "lint": "eslint . --config eslint.config.mjs",
+    "lint": "eslint . --config eslint.config.js",
     "format": "prettier . --write"
   },
   "devDependencies": {
